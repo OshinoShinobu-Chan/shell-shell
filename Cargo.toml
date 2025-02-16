@@ -4,7 +4,10 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+fern = "0.7.1"
+humantime = "2.1.0"
 libc = "0.2.169"
+log = "0.4.25"
 pty = "0.2.2"
 signal-hook = "0.3.17"
 termios = "0.3.3"
