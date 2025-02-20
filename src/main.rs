@@ -17,6 +17,7 @@ use post::post_run;
 use pre::pre_run;
 
 mod error;
+mod plugin;
 mod post;
 mod pre;
 
